@@ -1,10 +1,11 @@
 ### Hi there 👋 I am Ralph!
 
-
-
-## My GitHub Stats &#x1f4c8;
-
-<a href="https://github.com/ralphmensah/ralphmensah">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ralphmensah&hide=html&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+- 🌱 I’m currently learning Java, Javascript & Dev ops.
+- 🧠 I focus on Java, Spring,JavaScript, Angular, CI/CD 
+- 👯 I’m looking to collaborate on any open source project 🤝
+- 💪 I code to make the world a better place.
+- 🧩 I'm also interested in Art, Graphic Design, Motion Graphics. 
+- 💬 Ask me about anything.  
+- 📫 How to reach me: ralphmensah123@gmail.com
+- 😄 Pronouns: He/Him
 
