@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Ralph!
 
-- 🌱 I’m currently learning Java, Javascript & Dev ops.
+- 🌱 I’m currently learning Java(Spring boot), Javascript & Dev ops.
 - 🧠 I focus on Java, Spring,JavaScript, Angular, CI/CD 
 - 👯 I’m looking to collaborate on any open source project 🤝
 - 💪 I code to make the world a better place.
