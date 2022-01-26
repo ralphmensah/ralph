@@ -1,8 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ralph!
 ---
 
-- 🌱 I’m currently learning Java(Spring boot), Javascript & Dev ops.
-- 🧠 I focus on Java, JavaScript, Angular, CI/CD 
+- 🌱 I’m currently learning React and Javascript.
+- 🧠 I focus on Java, JavaScript, Angular, React.
 - 👯 I’m looking to collaborate on any open source project 🤝
 - 💪 I code to make the world a better place.
 - 🧩 I'm also interested in Art, Graphic Design, Motion Graphics. 
