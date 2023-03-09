@@ -1,12 +1,12 @@
 ### Hi there👋, I am Ralph🇬🇭!
 ---
 
-- 🌱 I’m currently learning React.Ts, GraphQL and Javascript(TypeScript).
+- 🌱 I’m currently learning Javascript(TypeScript) and Dart.
 - 🧠 I focus on Angular,TypeScript.
 - 👯 I’m looking to collaborate on any open source project 🤝
 - 💪 I code to make the world a better place.
 - 🧩 I'm also passionate about Art, Graphic Design, Motion Graphics. 
-- 💬 Ask me about anything Tech or Art.  
+- 💬 Ask me about anything Tech or @rt.  
 - 📫 How to reach me: ralphmensah123@gmail.com
 - 😄 Pronouns: He/Him
 
