@@ -1,7 +1,7 @@
 ### Hi there👋, I am Ralph🇬🇭!
 ---
 
-- 🌱 I’m currently learning Javascript(TypeScript) and Dart.
+- 🌱 I’m currently learning Javascript(TypeScript).
 - 🧠 I focus on Angular,TypeScript.
 - 👯 I’m looking to collaborate on any open source project 🤝
 - 💪 I code to make the world a better place.
